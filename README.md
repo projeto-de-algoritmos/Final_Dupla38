@@ -36,10 +36,10 @@ Solução utilizando algoritmo Dijkstra para desvendar a rota mais vantajosa ent
 </figcaption>
 
 ## Instalação 
-**Linguagem**: python e javascript<br>
-**Framework**: react js<br>
+**Linguagem**: Python e Javascript<br>
+**Framework**: React js<br>
 
-Um dos pré requisitos para rodar o projeto é ter o docker e o docker-compose instalados,além de possuir a versão Python 3+.
+Um dos pré-requisitos para rodar o projeto é ter o docker e o docker-compose instalados,além de possuir a versão Python 3+.
 
 Para subir o docker deve-se rodar o comando na pasta back:
 ``` shell
